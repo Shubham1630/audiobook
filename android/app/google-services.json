@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505478868442",
+    "project_id": "audiobook-8178c",
+    "storage_bucket": "audiobook-8178c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505478868442:android:16dffceffd6bf7402124e3",
+        "android_client_info": {
+          "package_name": "com.smartapps.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505478868442-rl94l89m0fqro63shirl22gh8cnhvgv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUL9WcovSkgKPqGGWh1pmYTr4KvlX6nOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505478868442-rl94l89m0fqro63shirl22gh8cnhvgv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
